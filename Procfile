@@ -1,1 +1,1 @@
-worker: python runbot_linux.sh
+worker: python run.py
